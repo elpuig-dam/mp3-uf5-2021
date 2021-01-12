@@ -4,7 +4,7 @@ public class OperacionsBanc {
 
 
     public static boolean verifyDNI(String dni) {
-        //TODO implementar fòrnula de verificació del DNI
+        //TODO implementar fòrmula de verificació del DNI
         return true;
     }
 
